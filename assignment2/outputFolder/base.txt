@@ -1,0 +1,54 @@
+----------- Base Report from Node: 3 at Iteration: 19 ----------- 
+Reporting Node: 3 at Coordinates: (1,0) at time: Wed 2023-11-01 12:49:42
+Reporting Node 3 number of adjacent node: 2 available port: 1
+Neighbour Node: 0, with Coordinates: (0,0) has: 1 free ports.
+Node: 3, within proximity
+Node: 0, within proximity
+Node: 4, within proximity
+Neighbour Node: 4, with Coordinates: (1,1) has: 1 free ports.
+Node: 1, within proximity
+Node: 5, within proximity
+Node: 3, within proximity
+Send Cars to:  3, 
+Program Time: 2.02
+----------- Base Report from Node: 3 at Iteration: 32 ----------- 
+Reporting Node: 3 at Coordinates: (1,0) at time: Wed 2023-11-01 12:49:55
+Reporting Node 3 number of adjacent node: 2 available port: 1
+Neighbour Node: 0, with Coordinates: (0,0) has: 1 free ports.
+Node: 3, within proximity
+Node: 0, within proximity
+Node: 4, within proximity
+Neighbour Node: 4, with Coordinates: (1,1) has: 1 free ports.
+Node: 1, within proximity
+Node: 5, within proximity
+Node: 3, within proximity
+Send Cars to:  3, 
+Program Time: 2.04
+----------- Base Report from Node: 3 at Iteration: 34 ----------- 
+Reporting Node: 3 at Coordinates: (1,0) at time: Wed 2023-11-01 12:49:58
+Reporting Node 3 number of adjacent node: 2 available port: 1
+Neighbour Node: 0, with Coordinates: (0,0) has: 1 free ports.
+Node: 3, within proximity
+Node: 0, within proximity
+Node: 4, within proximity
+Neighbour Node: 4, with Coordinates: (1,1) has: 1 free ports.
+Node: 1, within proximity
+Node: 5, within proximity
+Node: 3, within proximity
+Send Cars to:  3, 
+Program Time: 2.04
+----------- Base Report from Node: 5 at Iteration: 36 ----------- 
+Reporting Node: 5 at Coordinates: (1,2) at time: Wed 2023-11-01 12:50:00
+Reporting Node 5 number of adjacent node: 2 available port: 1
+Neighbour Node: 2, with Coordinates: (0,2) has: 1 free ports.
+Node: 5, within proximity
+Node: 2, within proximity
+Node: 4, within proximity
+Neighbour Node: 4, with Coordinates: (1,1) has: 1 free ports.
+Node: 1, within proximity
+Node: 5, within proximity
+Node: 3, within proximity
+Send Cars to:  3,  5, 
+Program Time: 3.02
+Messages between Nodes and Base: 11, Communication time: 9.12
+--------------------- END OF BASE REPORT ---------------------
